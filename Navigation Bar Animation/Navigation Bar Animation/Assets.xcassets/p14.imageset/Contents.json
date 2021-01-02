@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "FAF50DF2-2134-4385-AB01-205D9978D28D.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
